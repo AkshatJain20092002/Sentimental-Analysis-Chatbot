@@ -28,6 +28,7 @@ Clone the repository:
    git clone https://github.com/AkshatJain20092002/sentimental-analysis-chatbot.git
    cd sentimental-analysis-chatbot
 
+
 ## Project Structure
 
 ├── app.py               
@@ -44,6 +45,7 @@ Clone the repository:
 
 ├── sentiment_model.h5   (For this run the .ipynb file)
 
+```
 ## License
 This project is licensed under the MIT License .
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
