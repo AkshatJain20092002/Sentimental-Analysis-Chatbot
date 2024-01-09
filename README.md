@@ -42,7 +42,7 @@ Clone the repository:
 
 ├── tokenizer.pickle
 
-├── sentiment_model.h5
+├── sentiment_model.h5   (For this run the .ipynb file)
 
 ## License
 This project is licensed under the MIT License .
